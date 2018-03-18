@@ -1,0 +1,54 @@
+Timestamp : 1519807941 secs, 848276 usecs | Source : Log task | Log task initialised
+Timestamp : 1519807941 secs, 837530 usecs | Source : Temperature task | Task Initialized
+Timestamp : 1519807941 secs, 837567 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807941 secs, 835172 usecs | Source : Light task       | Task Initialized
+Timestamp : 1519807941 secs, 867452 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807941 secs, 860960 usecs | Source : Light task       | It's Day
+Timestamp : 1519807942 secs, 886507 usecs | Source : Temperature task | TEMPERATURE : 77.112503F 
+Timestamp : 1519807942 secs, 877774 usecs | Source : Light task       | Lumen : 51.443958 | Response to temp task 
+Timestamp : 1519807943 secs, 902974 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807943 secs, 896925 usecs | Source : Light task 	 | Lumen : 51.379200
+Timestamp : 1519807944 secs, 919768 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807944 secs, 913354 usecs | Source : Light task 	 | Lumen : 51.346817
+Timestamp : 1519807945 secs, 936551 usecs | Source : Temperature task | TEMPERATURE : 77.112503F 
+Timestamp : 1519807945 secs, 929838 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807946 secs, 953699 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807946 secs, 947472 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807947 secs, 970758 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807947 secs, 963897 usecs | Source : Light task 	 | Lumen : 51.476337
+Timestamp : 1519807948 secs, 988167 usecs | Source : Temperature task | TEMPERATURE : 77.112503F 
+Timestamp : 1519807948 secs, 980669 usecs | Source : Light task       | Lumen : 51.476337 | Response to temp task 
+Timestamp : 1519807950 secs, 5078 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807949 secs, 999402 usecs | Source : Light task 	 | Lumen : 51.476337
+Timestamp : 1519807951 secs, 23816 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807951 secs, 16913 usecs | Source : Light task       | Request Temperature
+Timestamp : 1519807952 secs, 39991 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807951 secs, 16958 usecs | Source : Light task 	 | Lumen : 51.476337
+Timestamp : 1519807953 secs, 79977 usecs | Source : Temperature task | Temperature : 298.212494 | Response to Light task 
+Timestamp : 1519807952 secs, 33318 usecs | Source : Light task 	 | Lumen : 51.476337
+Timestamp : 1519807954 secs, 97671 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807953 secs, 50027 usecs | Source : Light task       | Successful RWs all regs | Response to temp task 
+Timestamp : 1519807955 secs, 122590 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807954 secs, 91154 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807956 secs, 137247 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807955 secs, 109365 usecs | Source : Light task       | Part no: 5 revision: 0 | Response to temp task 
+Timestamp : 1519807957 secs, 157871 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807956 secs, 132243 usecs | Source : Light task       | Lumen : 51.443958 | Response to temp task 
+Timestamp : 1519807958 secs, 175040 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807957 secs, 150716 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807959 secs, 185417 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807958 secs, 168291 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807960 secs, 201213 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807959 secs, 179354 usecs | Source : Light task       | Interrupt Enabled | Response to temp task 
+Timestamp : 1519807961 secs, 213245 usecs | Source : Temperature task | TEMPERATURE : 77.112503F 
+Timestamp : 1519807960 secs, 197361 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807962 secs, 234963 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807961 secs, 209814 usecs | Source : Light task       | Request Temperature
+Timestamp : 1519807963 secs, 245917 usecs | Source : Temperature task | Request Light
+Timestamp : 1519807961 secs, 209850 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807964 secs, 291371 usecs | Source : Temperature task | Temperature : 77.112503 | Response to Light task 
+Timestamp : 1519807962 secs, 228934 usecs | Source : Light task 	 | Lumen : 51.443958
+Timestamp : 1519807965 secs, 308910 usecs | Source : Temperature task | TEMPERATURE : 298.212494K 
+Timestamp : 1519807963 secs, 242675 usecs | Source : Light task       | Lumen : 51.443958 | Response to temp task 
+Timestamp : 1519807966 secs, 325788 usecs | Source : Temperature task | TEMPERATURE : 25.062500C 
+Timestamp : 1519807964 secs, 260408 usecs | Source : Light task       | Successful RWs all regs | Response to temp task 
